@@ -1,0 +1,23 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Data files — do not commit raw or processed data
+data/raw/
+data/processed/
+
+# GCP credentials — never commit
+*.json
+service_account*.json
+
+# Output figures (optional — remove if you want to commit charts)
+outputs/
+
+# IDE
+.vscode/
+.idea/
+*.swp

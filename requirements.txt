@@ -1,0 +1,22 @@
+# Core data engineering
+pandas
+numpy
+
+# Google Cloud
+google-cloud-bigquery
+google-cloud-bigquery-storage
+pandas-gbq
+db-dtypes
+
+# Machine learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Config
+python-dotenv
+
+# Testing
+pytest
